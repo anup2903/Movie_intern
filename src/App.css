@@ -1,0 +1,172 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html{
+  scroll-behavior: smooth;
+}
+.land{
+  background-image: url('./images/back2.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  scroll-behavior: smooth !important; 
+}
+.img1{
+  /* background: linear-gradient(to right, rgba(19, 19, 19, 0.5), rgba(77, 78, 83, 0.895)),
+   url('./images/img1.jpg'); */
+  background-image: url('./images/img1.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  height: 45vh;
+  width: 15vw;
+}
+.but1{
+  background: linear-gradient(to right, rgba(19, 19, 19, 0.5), rgba(80, 106, 234, 0.895))
+   /* url('./images/back3.jpg'); */
+}
+
+.img2{
+  background-image: url('./images/img2.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  height: 45vh;
+  width: 15vw;
+}
+.img3{
+  background-image: url('./images/img3.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  height: 45vh;
+  width: 15vw;
+}
+.img4{
+  background-image: url('./images/img4.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  height: 45vh;
+  width: 15vw;
+}
+/* .img4:hover{
+  background: linear-gradient(to right, rgba(19, 19, 19, 0.5), rgba(77, 78, 83, 0.895)),
+  url('./images/img4.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+} */
+.img5{
+  background-image: url('./images/img5.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  height: 45vh;
+  width: 15vw;
+}
+.img6{
+  background-image: url('./images/img6.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  height: 45vh;
+  width: 15vw;
+}
+.img7{
+  background-image: url('./images/img7.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  height: 45vh;
+  width: 15vw;
+}
+.img8{
+  background-image: url('./images/img8.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  height: 45vh;
+  width: 15vw;
+  scroll-behavior: smooth !important; 
+}
+.third{
+  background-image: url('./images/back4.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.marvel{
+  background-image: url('./images/marvel.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.one{
+  background-image: url('./images/one.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.dc{
+  background-image: url('./images/dc.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.bigbang{
+  background-image: url('./images/bigbang.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  scroll-behavior: smooth !important; 
+}
+.watch{
+  background-image: url('./images/back5.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  scroll-behavior: smooth !important; 
+}
+.sum{
+  background-image: url('./images/back7.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  scroll-behavior: smooth !important; 
+}
+.form{
+  background: linear-gradient(to right, rgba(19, 19, 19, 0.5), rgba(77, 78, 83, 0.895)),
+   url('./images/back8.jpg');
+  /* background-image: url('./images/back8.jpg'); */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  scroll-behavior: smooth !important; 
+}
+.for{
+  background: linear-gradient(to right, rgba(19, 19, 19, 0.5), rgba(88, 113, 237, 0.895));
+   /* url('./images/back8.jpg'); */
+  /* background-image: url('./images/back8.jpg'); */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  scroll-behavior: smooth !important; 
+}
